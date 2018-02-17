@@ -1,5 +1,7 @@
 # raw.macro
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pveyes/raw.macro.svg)](https://greenkeeper.io/)
+
 Webpack [`raw-loader`](https://github.com/webpack-contrib/raw-loader) implemented as [`babel-plugin-macro`](https://github.com/kentcdodds/babel-plugin-macros)
 
 ## Why
